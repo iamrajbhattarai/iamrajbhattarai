@@ -2,8 +2,7 @@
 - 👀 I’m interested in WebGIS and Geospatial Python
 - 🌱 I’m currently exploring Machine Learning.
 - 💞️ I’m looking to collaborate on Machine learning projects.
-- 📫 You can contact me through email raj.bhattarai222@gmail.com
-- 
+- 📫 You can contact me through email raj.bhattarai222@gmail.com 
 
 <!---
 iamrajbhattarai/iamrajbhattarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
